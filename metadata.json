@@ -1,0 +1,8 @@
+{
+  "name": "ShowVault",
+  "description": "A modern and intuitive mobile application focused on storing and reliving memories of concerts and musical events. Upload photos and videos, add details, and let AI help you remember every moment.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
